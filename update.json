@@ -1,5 +1,6 @@
 {
 	"statusCode": 200,
 	"version": "1.0.1",
+	"note": "测试APP更新\n1.XXXXXXXXXX\n2.XXXXXXXXX",
 	"wgtUdateUrl": "https://leebailin.github.io/anlockTemperature/680A17F.wgt"
 }
