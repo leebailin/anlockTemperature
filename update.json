@@ -1,6 +1,6 @@
 {
 	"statusCode": 200,
-	"version": "1.0.0",
-	"note": "测试APP更新\n1.XXXXXXXXXX\n2.XXXXXXXXX",
+	"version": "1.0.1",
+	"note": "APP更新\n1.获取广播数据上传后台\n2.开启手机监控更醒目的提示",
 	"wgtUdateUrl": "https://leebailin.github.io/anlockTemperature/680A17F.wgt"
 }
