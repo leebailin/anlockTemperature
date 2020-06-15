@@ -1,6 +1,6 @@
 {
 	"statusCode": 200,
-	"version": "1.0.1",
-	"note": "APP更新\n1.获取广播数据上传后台\n2.开启手机监控更醒目的提示",
+	"version": "1.0.2",
+	"note": "APP更新\n1.获取广播数据实时更新图标\n2.全局手机监控\n3.高温提醒",
 	"wgtUdateUrl": "https://leebailin.github.io/anlockTemperature/680A17F.wgt"
 }
